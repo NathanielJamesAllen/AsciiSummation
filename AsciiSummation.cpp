@@ -26,5 +26,6 @@ int main()
    //output
    cout << d1 << d2 << d3 << endl; 
    cout << "The sum of the digits entered is " << sum << end;
+   
    return 0;
 }
